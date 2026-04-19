@@ -1,6 +1,7 @@
 ## Hey, I'm Djordje
 
-DevOps-oriented System Administrator based in Serbia. I build and operate production monitoring infrastructure — 400+ servers, 30 network devices, and a Prometheus/Thanos HA stack scraping 450+ targets.
+DevOps-oriented System Administrator based in Serbia. I manage production infrastructure of 400+ servers and 30 network devices — from Linux administration and network management to observability, automation, and security hardening.
+I designed and operate a Prometheus/Thanos HA monitoring stack processing 12 GB of metrics daily across the fleet.
 
 I care about understanding systems end-to-end, not just keeping them running.
 
