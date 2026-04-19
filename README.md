@@ -27,4 +27,4 @@ I care about understanding systems end-to-end, not just keeping them running.
 ### Get in touch
 
 [![Email](https://img.shields.io/badge/Email-contact@djordjelakicevic.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@djordjelakicevic.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djordje_Lakicevic-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91or%C4%91e-laki%C4%87evi%C4%87-813756227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djordje_Lakicevic-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djordje-lakicevic-813756227/)
